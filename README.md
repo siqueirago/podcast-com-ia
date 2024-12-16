@@ -14,10 +14,10 @@ O roteiro foi desenvolvido com a ajuda do ChatGPT , que apresentou a estrutura d
   
 O roteiro criado está disponível no arquivo roteiro .md .
 
-## 2. Geração do Áudio com IA
+### 2. Geração do Áudio com IA
 * Utilizei o CapCut para gerar áudio narrado, aproveitando sua funcionalidade de voz por inteligência artificial.
 * A ferramenta permitiu selecionar um tom de voz natural e envolvente, alinhado ao estilo do roteiro.
-## 3. Edição no CapCut
+### 3. Edição no CapCut
 A edição do podcast foi feita com o CapCut , que é uma ferramenta intuitiva e gratuita. Aqui estão os passos realizados:
 
 * Importação de áudio : Adicionei o arquivo de áudio da narração.
