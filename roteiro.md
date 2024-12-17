@@ -43,4 +43,4 @@ Obrigado por escutar este episódio. Até o próximo podcast!
 Gostou do conteúdo? Envie sua opinião ou sugestão para **siqueiragomes75@gmail.com**.  
 
 ### 📌 **Siga-nos nas redes sociais**  
-[LinkedIn](https://linkedin.com/juliosiqueira) 
+[LinkedIn](www.linkedin.com/in/julio-siqueira-9bb0a7203) 
