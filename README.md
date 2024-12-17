@@ -12,7 +12,7 @@ O roteiro foi desenvolvido com a ajuda do ChatGPT , que apresentou a estrutura d
 * **Desenvolvimento** : Explicação detalhada sobre o CSS e suas funções principais.
 * **Conclusão** : Resumo do tema e convite à interação com os ouvintes.
   
-O roteiro criado está disponível no arquivo roteiro .md .
+O roteiro criado está disponível no arquivo [roteiro .md](https://github.com/siqueirago/podcast-com-ia/blob/main/roteiro.md) .
 
 ### 2. Geração do Áudio com IA
 * Utilizei o CapCut para gerar áudio narrado, aproveitando sua funcionalidade de voz por inteligência artificial.
