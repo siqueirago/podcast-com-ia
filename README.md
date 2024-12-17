@@ -35,7 +35,7 @@ A edição do podcast foi feita com o CapCut , que é uma ferramenta intuitiva e
 ## 🤝 Contribuir com o Projeto
 Se você tem sugestões ou gostaria de contribuir, sinta-se à vontade para abrir uma edição ou enviar um pull request. Vamos juntos criar mais conteúdos incríveis sobre tecnologia!
 
-## 🎧 Ouça o podcast completo aqui : Link para o episódio
-📱 Siga-nos nas redes sociais : @tecnologia_podcast
+## 🎧 Ouça o podcast completo aqui: 
+[Link para o episódio](https://www.capcut.com/s/CYhB1Ie9k6BhViIp/)
 
 Criado por Julio Siqueira
