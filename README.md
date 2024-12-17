@@ -1,5 +1,5 @@
 # 🎙️ Podcast: Front-End e as Funções do CSS
-Este repositório documenta o processo de criação do nosso podcast criado com Inteligencia Artificial, sobre Front-End e as funções do CSS , desde o roteiro até a edição final. Aqui você encontra os passos que seguimos, as ferramentas utilizadas e algumas dicas para quem quiser criar um podcast do zero.
+Este repositório documenta o processo de criação do podcast criado com Inteligencia Artificial, sobre Front-End e as funções do CSS , desde o roteiro até a edição final. Aqui você encontra os passos que seguimos, as ferramentas utilizadas e algumas dicas para quem quiser criar um podcast do zero.
 
 ## 🛠️ Ferramentas Utilizadas
 * **ChatGPT** : Para criar o roteiro do podcast.
